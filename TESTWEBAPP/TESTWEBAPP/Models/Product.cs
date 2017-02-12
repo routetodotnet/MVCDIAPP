@@ -13,5 +13,7 @@ namespace TESTWEBAPP.Models
 
         public string department { get; set; }
 
+        public string notes { get; set;  }
+
     }
 }
